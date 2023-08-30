@@ -1,2 +1,2 @@
 # Inventory-Management-System
-git push -u origin main
+![gorsel1](/Screenshot_1.png)
