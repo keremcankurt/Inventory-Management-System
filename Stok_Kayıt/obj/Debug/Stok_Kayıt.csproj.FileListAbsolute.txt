@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\Stok_Kayıt.exe.config
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\Stok_Kayıt.exe
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\Stok_Kayıt.pdb
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.Form1.resources
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.Properties.Resources.resources
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.csproj.CopyComplete
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.exe
+C:\Users\user\source\repos\Stok_Kayıt\Stok_Kayıt\obj\Debug\Stok_Kayıt.pdb
